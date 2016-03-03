@@ -1,6 +1,6 @@
 package:
   name: micronota
-  version: !!str a016615
+  version: !!str d871667 
 
 source:
   git_url: https://github.com/biocore/micronota.git
@@ -25,7 +25,7 @@ requirements:
 
   run:
     - python
-    - scikit-bio
+    - scikit-bio 0.4.2dev
     - prodigal
     - diamond
     - infernal
