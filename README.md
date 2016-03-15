@@ -7,19 +7,6 @@ This repository hosts conda recipes for various biocore packages or dependencies
 
 This will make software installation much easier for users with or without much command line experience.
 
-Currently, the following packages (and their versions) are built and available on the anaconda organization named [biocore](https://anaconda.org/biocore):
-
-* [HMMER](http://hmmer.janelia.org/): [![Binstar Badge](https://anaconda.org/biocore/hmmer/badges/version.svg)](https://anaconda.org/biocore/hmmer)
-
-* [Infernal](http://infernal.janelia.org/): [![Binstar Badge](https://anaconda.org/biocore/infernal/badges/version.svg)](https://anaconda.org/biocore/infernal)
-
-* [Prodigal](https://github.com/hyattpd/Prodigal): [![Binstar Badge](https://anaconda.org/biocore/prodigal/badges/version.svg)](https://anaconda.org/biocore/prodigal)
-
-* [VSEARCH](https://github.com/torognes/vsearch): [![Binstar Badge](https://anaconda.org/biocore/vsearch/badges/version.svg)](https://anaconda.org/biocore/vsearch)
-
-* [MAFFT](http://mafft.cbrc.jp): [![Binstar Badge](https://anaconda.org/biocore/mafft/badges/version.svg)](https://anaconda.org/biocore/mafft)
-
-
 To install a package, you just need to run:
 
 	conda install -c https://conda.anaconda.org/biocore <package-name>
