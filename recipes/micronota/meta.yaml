@@ -1,6 +1,6 @@
 package:
   name: micronota
-  version: !!str master
+  version: !!str 951e032
 
 source:
   git_url: https://github.com/biocore/micronota.git
