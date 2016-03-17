@@ -3,8 +3,8 @@ package:
   version: !!str 951e032
 
 source:
-  git_url: https://github.com/biocore/micronota.git
-  git_tag: master
+  git_url: https://github.com/RNAer/micronota.git
+  git_tag: bf
 
 build:
   #preserve_egg_dir: True
